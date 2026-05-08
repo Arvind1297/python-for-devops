@@ -9,10 +9,8 @@
 #  print(i)
   #break
   #continue
- """quest.1 wap tp takes start point and end point from user input and printall number divisle by 2 and 3
+ #quest.1 wap tp takes start point and end point from user input and printall number divisle by 2 and 3
  
- #3quest wap to take a number from user input
- #and  print formated table
 start_point = int(input("enter the start_point:"))
 end_point = int(input("enter the end_point:"))
 
